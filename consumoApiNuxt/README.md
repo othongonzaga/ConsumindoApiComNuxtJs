@@ -1,5 +1,5 @@
 # consumoApiNuxt
--Projeto simples feito para práticar um pouco do que aprendi no curso de NuxtJs.
+- Projeto simples feito para práticar um pouco do que aprendi no curso de NuxtJs.
 
 ## Build Setup
 
